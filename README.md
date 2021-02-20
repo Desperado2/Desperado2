@@ -32,7 +32,11 @@
 <img src="https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell" alt="Shell" style="max-width:100%;">&nbsp;
 <img src="https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins" alt="Jenkins"  style="max-width:100%;">&nbsp;
 <img src="https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js" alt="Vue.js" style="max-width:100%;">&nbsp;
-<img src="https://img.shields.io/badge/-VirtualBox-05122A?style=flat&logo=virtualbox" alt="VirtualBox" style="max-width:100%;">&nbsp;
+<img src="https://img.shields.io/badge/-VirtualBox-05122A?style=flat&logo=virtualbox" alt="VirtualBox" style="max-width:100%;"><br>
+<img src="https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm" alt="WebStorm" style="max-width:100%;">&nbsp;
+<img src="https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery" alt="jQuery" style="max-width:100%;">&nbsp;
+<img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira" alt="Jira" style="max-width:100%;">&nbsp;
+<img src="https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua" alt="Lua" style="max-width:100%;">&nbsp;
 </p>
 <br>
 
