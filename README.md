@@ -45,7 +45,14 @@
 
 <p align="center">
 <a href="https://www.jianshu.com/u/5ea1795d1adf" rel="nofollow"><img src="https://img.shields.io/badge/-jianshu.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" style="max-width:100%;"></a>
+  <a href="https://www.cnblogs.com/jack1995/" rel="nofollow"><img src="https://img.shields.io/badge/-cnblogs.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" style="max-width:100%;"></a>
+  <a href="https://juejin.cn/user/694547078716574" rel="nofollow"><img src="https://img.shields.io/badge/-juejin.cn-3423A6?style=flat&logo=Google-Chrome&logoColor=white" style="max-width:100%;"></a>
+  <a href="https://blog.csdn.net/jack199504" rel="nofollow"><img src="https://img.shields.io/badge/-csdn.net-3423A6?style=flat&logo=Google-Chrome&logoColor=white" style="max-width:100%;"></a>
+      <a href="https://weibo.com/wanggouxiangdao/profile?rightmod=1&wvr=6&mod=personinfo" rel="nofollow"><img src="https://img.shields.io/badge/-Google-Chrome-E4405F?style=flat&logo=wechat&logoColor=white" style="max-width:100%;"></a>
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1928524965&site=qq&menu=yes"><img src="https://img.shields.io/badge/-QQ-3423A6?style=flat&logo=tencent-qq&logoColor=white" style="max-width:100%;"></a>
-  <a href="mailto:1928524965@qq.com"><img src="https://img.shields.io/badge/-mail@qq.com-D14836?style=flat&logo=Gmail&logoColor=white" style="max-width:100%;"></a><a href="https://instagram.com/adityavs_" rel="nofollow"><img src="https://img.shields.io/badge/-WeChat__-E4405F?style=flat&logo=wechat&logoColor=white" style="max-width:100%;"></a>
+  <a href="mailto:1928524965@qq.com"><img src="https://img.shields.io/badge/-mail@qq.com-D14836?style=flat&logo=Gmail&logoColor=white" style="max-width:100%;"></a>
+  <a href="https://instagram.com/adityavs_" rel="nofollow"><img src="https://img.shields.io/badge/-WeChat-E4405F?style=flat&logo=wechat&logoColor=white" style="max-width:100%;"></a>
+
+  
 </p>
 
