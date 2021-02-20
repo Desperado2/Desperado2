@@ -1,5 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=desperado2&show_icons=truee&bg_color=DEG,e96443,904e95" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />  
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desperado2&layout=compact&bg_color=DEG,e96443,904e95" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />  
+
 ### I'm polarisxu
 
 -  Peking university
