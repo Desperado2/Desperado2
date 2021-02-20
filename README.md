@@ -1,6 +1,6 @@
-### Hey there! I'm Desperado
+:wave: ### Hey there! I'm Desperado
 
-**About Me**  
+:bow: **About Me**  
 :bulb: I like to explore new technologies and develop software solutions.  
 :muscle: I am currently engaged in java development.  
 :cactus: I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.  
