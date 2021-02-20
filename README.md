@@ -12,7 +12,7 @@
 
 ### :wave: Tech Stack
 
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Desperado2/Desperado2/master/Night-Coding.gif"><img alt="Night Coding" src="https://raw.githubusercontent.com/Desperado2/Desperado2/master/Night-Coding.gif" align="right" style="max-width:100%;"></a>
 
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" style="max-width:100%;">&nbsp;
