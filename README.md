@@ -24,7 +24,6 @@
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" style="max-width:100%;">&nbsp;
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&logoColor=1572B6" style="max-width:100%;">&nbsp;
 <img alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" style="max-width:100%;">&nbsp;
-
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" style="max-width:100%;"><br>
 <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" style="max-width:100%;">&nbsp;
 <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&amp;logoColor=2C2255" style="max-width:100%;">&nbsp;
