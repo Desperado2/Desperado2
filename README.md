@@ -44,11 +44,6 @@
 ### 🤝🏻  Connect with Me
 
 <p align="center">
-<a href="https://www.jianshu.com/u/5ea1795d1adf" rel="nofollow"><img src="https://img.shields.io/badge/-jianshu.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" style="max-width:100%;"></a>
-<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1928524965&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1928524965:41" alt="qq" title="qq"/></a>
-<a href="mailto:1928524965@qq.com"><img src="https://img.shields.io/badge/-mail@qq.com-D14836?style=flat&logo=Gmail&logoColor=white" style="max-width:100%;"></a>
-  
-<a href="https://instagram.com/adityavs_" rel="nofollow"><img src="https://img.shields.io/badge/-WeChat__-E4405F?style=flat&logo=wechat&logoColor=white" style="max-width:100%;"></a>
-
+<a href="https://www.jianshu.com/u/5ea1795d1adf" rel="nofollow"><img src="https://img.shields.io/badge/-jianshu.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" style="max-width:100%;"></a><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1928524965&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1928524965:41" alt="qq" title="qq"/></a><a href="mailto:1928524965@qq.com"><img src="https://img.shields.io/badge/-mail@qq.com-D14836?style=flat&logo=Gmail&logoColor=white" style="max-width:100%;"></a><a href="https://instagram.com/adityavs_" rel="nofollow"><img src="https://img.shields.io/badge/-WeChat__-E4405F?style=flat&logo=wechat&logoColor=white" style="max-width:100%;"></a>
 </p>
 
