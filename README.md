@@ -53,6 +53,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=desperado2&show_icons=truee&bg_color=DEG,e96443,904e95" alt="logo" height="180"  style="max-width:100%" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desperado2&layout=compact&bg_color=DEG,e96443,904e95" alt="logo" height="180" style="max-width:100%"/> </p>
  
+ ### :book: Profile Trophies
+ <img src="https://github-profile-trophy.vercel.app/?username=desperado2&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+ 
 ### 🤝🏻  Connect with Me
 
 <p align="center">
