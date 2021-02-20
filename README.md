@@ -36,7 +36,15 @@
 <img src="https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm" alt="WebStorm" style="max-width:100%;">&nbsp;
 <img src="https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery" alt="jQuery" style="max-width:100%;">&nbsp;
 <img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira" alt="Jira" style="max-width:100%;">&nbsp;
-<img src="https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua" alt="Lua" style="max-width:100%;">&nbsp;
+<img src="https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua" alt="Lua" style="max-width:100%;"><br>
+<img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis" alt="Redis" style="max-width:100%;">&nbsp;
+<img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" alt="Linux" style="max-width:100%;">&nbsp;
+<img src="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq" alt="RabbitMQ" style="max-width:100%;">&nbsp;
+<img src="https://img.shields.io/badge/-Apache&nbsp;RocketMQ-05122A?style=flat&logo=apache-rocketmq" alt="Apache RocketMQ" style="max-width:100%;"><br>
+<img src="https://img.shields.io/badge/-Apache&nbsp;Druid-05122A?style=flat&logo=apache-druid" alt="Apache Druid" style="max-width:100%;">&nbsp;
+<img src="https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch" alt="elasticsearch" style="max-width:100%;">&nbsp;
+<img src="https://img.shields.io/badge/-ApacheMaven-05122A?style=flat&logo=apache-maven" alt="Apache Maven" style="max-width:100%;">&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL" style="max-width:100%;">&nbsp;
 </p>
 <br>
 
